@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sdf version='1.7'>
-  <world name='rmul_2026'>
+  <world name='default'>
     <!-- Physics -->
     <plugin filename="libignition-gazebo-physics-system.so" name="ignition::gazebo::systems::Physics">
     </plugin>

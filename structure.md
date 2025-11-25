@@ -23,7 +23,7 @@
 - `rviz.launch.py` - 启动 RViz 可视化工具
 
 ### **3. resource/ - 资源文件**
-#### **models/ - 机器人模型**
+#### **models/ - 地图模型**
 - `rmuc_2024/2025` - RMUC（RoboMaster 大学挑战赛）机器人模型
 - `rmul_2024/2025` - RMUL（RoboMaster 大学联赛）机器人模型
 - 每个模型包含：网格文件(.stl/.dae)、纹理、SDF 模型描述

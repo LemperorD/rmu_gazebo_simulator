@@ -8,6 +8,11 @@
       <kinematic>0</kinematic>
       <gravity>1</gravity>
       <visual name='visual'>
+        <material>
+          <ambient>0.3 0.3 0.3 1</ambient>
+          <diffuse>0.7 0.7 0.7 1</diffuse>
+          <specular>0.01 0.01 0.01 1</specular>
+        </material>
         <geometry>
           <mesh>
             <uri>model://rmul_2026/meshes/rmul_2026.stl</uri>
